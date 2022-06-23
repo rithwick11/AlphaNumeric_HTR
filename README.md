@@ -25,4 +25,4 @@ Test Set Accuracy or CNN Score : **96.56 % or 0.9656**
 
 Test Set Loss : **0.15199**
 
-I have also included the test images that we predicted on using the model in the Testing Images Folder 
+NOTE: I have also included the test images that we predicted on using the model in the Testing Images Folder 
